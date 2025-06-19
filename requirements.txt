@@ -1,0 +1,11 @@
+streamlit
+langchain
+langgraph
+langchain-groq
+langchain-community
+sqlalchemy
+pandas
+matplotlib
+pillow
+ipython
+tabulate
