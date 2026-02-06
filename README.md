@@ -1,7 +1,5 @@
 http://54.200.99.221:8501/
 
-Here’s a clean, professional **README.md** draft for your project that explains what it does and how someone can use it:
-
 ---
 
 # Natural Language Database Agent with Dashboard
